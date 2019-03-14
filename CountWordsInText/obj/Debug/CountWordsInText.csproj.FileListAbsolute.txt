@@ -1,0 +1,7 @@
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\bin\Debug\CountWordsInText.exe.config
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\bin\Debug\CountWordsInText.exe
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\bin\Debug\CountWordsInText.pdb
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\obj\Debug\CountWordsInText.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\obj\Debug\CountWordsInText.csproj.CoreCompileInputs.cache
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\obj\Debug\CountWordsInText.exe
+C:\Users\ШулякД\source\repos\CountWordsInText\CountWordsInText\obj\Debug\CountWordsInText.pdb
